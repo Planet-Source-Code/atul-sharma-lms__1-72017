@@ -1,0 +1,18 @@
+This is complete library management system
+
+To use:
+When first time this applications is executed first dialog displays the Administrator password input dialog.
+
+- Enter 'password' and 'Confirm password' as you wish say 'admin' (you can use anything).
+  This password will be the password of adminstator and can be change from  adminstrator setting   later.
+
+Database password=Library
+
+If you really enjoy this applications or you have any questions then please give your feedback to me at
+
+atulsharma06@yahoo.com
+
+please visite the site for more:
+
+http://atul.freind4u.googlepages.com/home
+
